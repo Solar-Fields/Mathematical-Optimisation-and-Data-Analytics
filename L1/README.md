@@ -42,7 +42,10 @@ sub ─────┘
 ```
 The process can be viewed by clicking on `Queries & Connections` in the excel search bar. 
 
-Finally, the summary statistics are created to find the overlapping emails between `sub` and `master`:
+Finally, the summary statistics are created to find the overlapping emails between `sub` and `master` in:
+
+- `Summary`
+
 ```excel
 =FILTER(mastertrim,COUNTIF(subtrim,mastertrim))
 ```
