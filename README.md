@@ -5,6 +5,9 @@ Notes and projects taken from my lessons at Ajou University (아주대학교), S
   <img width="778" height="585" alt="IMG_7264" src="https://github.com/user-attachments/assets/ee9cff4d-76b8-4171-b58c-8bdc25e1ae91" />
 </p>
 
+Directories:
+- `L1` , contains an introduction and excel problem for duplicate emails
+
 <img width="4032" height="3024" alt="IMG_6442" src="https://github.com/user-attachments/assets/29bf1c7d-6100-4707-9857-d692c7738f10" />
 
 <img width="4032" height="3024" alt="IMG_5675" src="https://github.com/user-attachments/assets/3f06c85b-e515-41bd-ad0c-6426e9f7f1fb" />
