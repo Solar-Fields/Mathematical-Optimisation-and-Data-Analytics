@@ -3,7 +3,7 @@
 Data analytics is the process of collecting, cleaning, processing, and analyzing data to
 obtain useful information and insight.
 
-| Concept | Interview-friendly question | Example |
+| Concept | The Question | Example |
 |---|---|---|
 | **Data preparation** | Is the data usable? | Clean duplicates, missing values, dates, combine datasets |
 | **Descriptive analytics** | **What happened?** | Sales dashboard, traffic trends |
