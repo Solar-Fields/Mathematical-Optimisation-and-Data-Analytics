@@ -12,3 +12,8 @@ obtain useful information and insight.
 | **Supervised ML** | Do we have a target/label? | Predict house price / churn |
 | **Unsupervised ML** | No target — can we find structure? | Customer segmentation |
 | **Reinforcement learning** | Can an agent learn actions from rewards? | Route/control/recommendation decisions |
+
+
+```excel
+=FILTER(master[Trim],COUNTIF(sub[Trim],master[Trim])>0)
+```
