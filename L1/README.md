@@ -13,6 +13,8 @@ obtain useful information and insight.
 | **Unsupervised ML** | No target — can we find structure? | Customer segmentation |
 | **Reinforcement learning** | Can an agent learn actions from rewards? | Route/control/recommendation decisions |
 
+The first example (duplicate_emails_ETL.csv) contains two lists of emails; master and sub. both lists can be arbitrarily large but are smaller for practicing purposes. Both contain duplicate emails and emails with blank spaces or capitalised versions. 
+The process begins by cleaning the data. 
 
 ```excel
 =FILTER(master[Trim],COUNTIF(sub[Trim],master[Trim])>0)
